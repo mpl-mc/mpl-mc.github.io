@@ -1,0 +1,96 @@
+{
+    "about": {
+        "title": "SOBRE NÓS",
+        "content": [
+            "Fundada em 2020, a MPL & MC Engenharia, Lda. integra o setor da construção civil através da reabilitação e construção de edifícios habitacionais e comerciais.",
+            "Dedicamo-nos à execução, gestão, acompanhamento e monitorização das nossas obras através do conhecimento técnico e experiência dos nossos profissionais, que formam uma equipa jovem, dinâmica e responsável.",
+            "As soluções de engenharia e construção vão ao encontro das necessidades de cada cliente, mediante a elaboração de orçamentos detalhados, prevendo a otimização de custos e respeitando o cumprimento de prazos de execução definidos.",
+            "O nosso foco é a qualidade do serviço prestado que, neste mercado competitivo, permite diferenciar-nos. A nossa reputação tem vindo a ser construída pelo acompanhamento personalizado aos Clientes."
+        ]
+    },
+    "services": {
+        "title": "SERVIÇOS",
+        "content": {
+            "Construção": [
+                "Reconstrução e reabilitação de património",
+                "Remodelação de espaços interiores e exteriores",
+                "Construção de edificado",
+                "Reforço estrutural"
+            ],
+            "Engenharia": [
+                "Gestão, planeamento e coordenação de Obra", 
+                "Fiscalização de Obra",
+                "Projetos de especialidade",
+                "Consultoria e pareceres técnicos"
+            ],
+            "Complementares": [
+                "Elaboração de Caderno de Encargos e Mapa de Quantidades",
+                "Projetos de Arquitetura",
+                "Projectos 3D",
+                "Análise de viabilidade económica"
+            ]
+        }
+    },
+    "portfolio": {
+        "title" : "PORTEFÓLIO",
+        "more": "+",
+        "content": [
+            {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            },
+            {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            },
+            {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/1.jpeg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            },
+            {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            },
+            {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/1.jpeg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            },
+            {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            }
+        ]
+    },
+    "contacts": {
+        "title": "CONTACTOS",
+        "email": "geral@mpl-mc.pt",
+        "phone":"(+351) 210998121",
+        "address": [
+            "Avenida das Acácias - 53, Loja B",
+            "2775-342 Parede - Cascais, Portugal"
+        ]
+    },
+    "labels": {
+      "top": "Voltar ao Inicio",
+      "previous": "Anterior",
+      "next": "Proximo",
+      "follow": "SEGUE NOS",
+      "more": "Ver Mais",
+      "less": "Ver Menos",
+      "form": "ENTRE EM CONTACTO",
+      "subject": "Assunto",
+      "message": "Messagem",
+      "send": "Enviar",
+      "complains": "Livro de reclamações"
+    },
+    "placeholders": {
+      "subject": "Escreva aqui a seu assunto",
+      "message": "Escreva aqui a sua mensagem"
+    }
+}

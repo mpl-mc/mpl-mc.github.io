@@ -1,0 +1,96 @@
+{
+    "about": {
+        "title": "ABOUT US",
+        "content": [
+            "Founded in 2020, MPL & MC Engenharia, Lda. operates within the construction sector, specializing in the rehabilitation and construction of both residential and commercial buildings.",
+            "We are committed to the execution, management, supervision, and monitoring of our projects, relying on the technical expertise and experience of our professionals, who form a young, dynamic, and responsible team.",
+            "Our engineering and construction solutions are carefully tailored to meet the unique needs of each client, with detailed budget proposals aimed at optimizing costs while ensuring the timely completion of projects.",
+            "Our primary focus is on delivering exceptional quality, which enables us to diƯerentiate ourselves in this highly competitive market. Our reputation has been built on providing personalized service to our clients."
+        ]
+    },
+    "services": {
+        "title": "SERVICES",
+        "content": {
+            "Construction": [
+                "Building reconstruction and rehabilitation", 
+                "Interior and exterior remodeling",
+                "Building construction",
+                "Structural reinforcement"
+            ],
+            "Engineering": [
+                "Project management",
+                "Construction supervision",
+                "Specialty projects",
+                "Consulting"
+            ],
+            "Additional": [
+                "Tender phase documentation, specifications and quantity surveys",
+                "Architecture projects",
+                "3D projects",
+                "Economic feasibility studies"
+            ]
+        }
+    },
+    "portfolio": {
+        "title" : "PORTFOLIO",
+        "more": "+",
+        "content": [
+          {
+              "title": "Manique, 2022",
+              "images": ["/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg"],
+              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+          },
+          {
+              "title": "Manique, 2022",
+              "images": ["/assets/photos/2.jpg"],
+              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+          },
+          {
+              "title": "Manique, 2022",
+              "images": ["/assets/photos/1.jpeg"],
+              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+          },
+          {
+              "title": "Manique, 2022",
+              "images": ["/assets/photos/2.jpg"],
+              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+          },
+          {
+              "title": "Manique, 2022",
+              "images": ["/assets/photos/1.jpeg"],
+              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+          },
+          {
+              "title": "Manique, 2022",
+              "images": ["/assets/photos/2.jpg"],
+              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+          }
+        ]
+    },
+    "contacts": {
+        "title": "CONTACTS",
+        "email": "geral@mpl-mc.pt",
+        "phone":"(+351) 210998121",
+        "address": [
+            "Avenida das Acácias - 53, Loja B",
+            "2775-342 Parede - Cascais, Portugal"
+        ]
+    },
+    "labels": {
+      "top": "Back to Top",
+      "previous": "Previous",
+      "next": "Next",
+      "follow": "FOLLOW US",
+      "more": "See More",
+      "less": "See Less",
+      "form": "GET IN TOUCH",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "complains": "Complaints Book"
+    },
+    "placeholders": {
+      "subject": "Type your subject here",
+      "message": "Type your message here"
+    }
+}
