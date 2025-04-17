@@ -33,7 +33,6 @@
     },
     "portfolio": {
         "title" : "PORTFOLIO",
-        "more": "+",
         "content": [
           {
               "title": "Manique, 2022",
@@ -92,5 +91,9 @@
     "placeholders": {
       "subject": "Type your subject here",
       "message": "Type your message here"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/mplmcengenharia/",
+      "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
