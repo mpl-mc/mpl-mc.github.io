@@ -89,8 +89,8 @@
       "complains": "Livro de reclamações"
     },
     "placeholders": {
-      "subject": "Escreva aqui a seu assunto",
-      "message": "Escreva aqui a sua mensagem"
+      "subject": "Escreva aqui a seu assunto...",
+      "message": "Escreva aqui a sua mensagem..."
     },
     "links": {
       "linkedin": "https://www.linkedin.com/company/mplmcengenharia/",
