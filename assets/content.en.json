@@ -89,8 +89,8 @@
       "complains": "Complaints Book"
     },
     "placeholders": {
-      "subject": "Type your subject here",
-      "message": "Type your message here"
+      "subject": "Type your subject here...",
+      "message": "Type your message here..."
     },
     "links": {
       "linkedin": "https://www.linkedin.com/company/mplmcengenharia/",
