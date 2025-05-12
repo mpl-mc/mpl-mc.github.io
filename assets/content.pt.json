@@ -63,6 +63,11 @@
                 "title": "Manique, 2022",
                 "images": ["/assets/photos/2.jpg"],
                 "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+            },
+              {
+                "title": "Manique, 2022",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
             }
         ]
     },
@@ -79,7 +84,7 @@
       "top": "Voltar ao Inicio",
       "previous": "Anterior",
       "next": "Proximo",
-      "follow": "SEGUE NOS",
+      "follow": "SIGA-NOS",
       "more": "Ver Mais",
       "less": "Ver Menos",
       "form": "ENTRE EM CONTACTO",
