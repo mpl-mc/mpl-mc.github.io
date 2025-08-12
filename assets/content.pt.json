@@ -65,9 +65,59 @@
                 "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos de moradia com vista deslumbrante no alto da Paredeo."
             },
               {
-                "title": "Manique, 2022",
+                "title": "Parede, 2023",
                 "images": ["/assets/photos/2.jpg"],
-                "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
+                "description": "Remodelação integral de apartamento T4 com áreas generosas no centro da Parede, onde se deu primazia à simplicidade do espaço, com linhas claras."
+            }
+            {
+                "title": "Carcavelos, 2024",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "No coração de Carcavelos, demos uma nova vida a um apartamento T4 do início do milénio."
+            }
+              {
+                "title": "Carcavelos, 2023",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "De frente para a praia de Carcavelos, transformámos um espaço de meados do século passado num AL moderno e convidativo."
+            }
+            {
+                "title": "Junqueiro, 2023",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Obra de reabilitação integral de um pequeno apartamento, numa localização premium."
+            }
+             {
+                "title": "Parede, 2022",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Obra de remodelação exterior em moradia unifamiliar em condomínio na Parede, coroado pela integração de pérgola."
+            }
+            {
+                "title": "Av. João Crisóstomo, 2024",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Obra de remodelação integral de apartamento T1 para aluguer de longa duração na Av. João Crisóstomo."
+            }
+            {
+                "title": "Campo de Ourique, 2024",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "Obra de remodelação integral de pequeno AL nuam zona previligiada de Lisboa."
+            }
+            {
+                "title": "Parede, 2021",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "."
+            }
+                {
+                "title": "Reforço estrutural",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "."
+            }
+                 {
+                "title": "Parede, 2025",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "."
+            }
+            {
+                "title": "São João do Estoril, 2025",
+                "images": ["/assets/photos/2.jpg"],
+                "description": "."
             }
         ]
     },
@@ -102,4 +152,5 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
