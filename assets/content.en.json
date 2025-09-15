@@ -32,39 +32,90 @@
         }
     },
     "portfolio": {
-        "title" : "PORTFOLIO",
-        "content": [
-          {
-              "title": "Manique, 2022",
-              "images": ["/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg"],
-              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-          },
-          {
-              "title": "Manique, 2022",
-              "images": ["/assets/photos/2.jpg"],
-              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-          },
-          {
-              "title": "Manique, 2022",
-              "images": ["/assets/photos/1.jpeg"],
-              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-          },
-          {
-              "title": "Manique, 2022",
-              "images": ["/assets/photos/2.jpg"],
-              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-          },
-          {
-              "title": "Manique, 2022",
-              "images": ["/assets/photos/1.jpeg"],
-              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-          },
-          {
-              "title": "Manique, 2022",
-              "images": ["/assets/photos/2.jpg"],
-              "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-          }
-        ]
+    "title": "PORTFOLIO",
+    "content": [
+        {
+            "title": "Manique, 2022",
+            "images": ["/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg"],
+            "description": "Guided by the extensive use of carpentry in reshaping the space, we restored this 19th-century residence to accommodate a new dwelling complemented by an adjoining commercial area."
+        },
+        {
+            "title": "São Domingos de Rana, 2022",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Rehabilitation of a single-family home, distinguished by its openness, soft lines, and fluid connection to the surrounding exterior."
+        },
+        {
+            "title": "Carcavelos, 2023",
+            "images": ["/assets/photos/1.jpeg"],
+            "description": "Following the completion of wastewater connections to the public network, we seized the opportunity to breathe life into two distinct spaces within a residence in the heart of Carcavelos."
+        },
+        {
+            "title": "Avenidas Novas, 2024",
+            "images": ["/assets/photos/crisostomo1.jpg", "/assets/photos/crisostomo2.jpg", "/assets/photos/crisostomo3.jpg", "/assets/photos/crisostomo4.jpg", "/assets/photos/crisostomo5.jpg", "/assets/photos/crisostomo6.jpg", "/assets/photos/crisostomo7.jpg", "/assets/photos/crisostomo8.jpg", "/assets/photos/crisostomo9.jpg", "/assets/photos/crisostomo10.jpg", "/assets/photos/crisostomo11.jpg", "/assets/photos/crisostomo12.jpg", "/assets/photos/crisostomo13.jpg"],
+            "description": "Apartment on Avenida João Crisóstomo, designed for long-term rental in the heart of Lisbon, marked by the maximization of space and a significant improvement in its energy rating, in accordance with CML guidelines for building rehabilitation."
+        },
+        {
+            "title": "Parede, 2023",
+            "images": ["/assets/photos/1.jpeg"],
+            "description": "Fit-out project for one of the most renowned restaurants along the Cascais coastline, enhancing natural light within the space while refining the kitchen-to-dining transition to meet the daily needs of the team at O Toscano."
+        },
+        {
+            "title": "Parede, 2023",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Renovation works on an exterior patio, swimming pool, and landscaped gardens of a residence offering a breathtaking view atop Parede."
+        },
+        {
+            "title": "Parede, 2023",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Complete refurbishment of a spacious four-bedroom apartment in central Parede, where simplicity and clarity of lines took precedence."
+        },
+        {
+            "title": "Carcavelos, 2024",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "In the heart of Carcavelos, we revitalized a four-bedroom apartment from the early 2000s."
+        },
+        {
+            "title": "Carcavelos, 2023",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Facing Carcavelos Beach, we transformed a mid-20th-century property into a modern and inviting short-term rental."
+        },
+        {
+            "title": "Junqueiro, 2023",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Comprehensive renovation of a compact apartment in a prime location."
+        },
+        {
+            "title": "Parede, 2022",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Exterior refurbishment of a single-family home within a gated community in Parede, crowned by the integration of a pergola."
+        },
+        {
+            "title": "Campo de Ourique, 2024",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Full renovation of a small short-term rental property in a privileged area of Lisbon."
+        },
+        {
+            "title": "Parede, 2021",
+            "images": ["/assets/photos/2.jpg"],
+            "description": ""
+        },
+        {
+            "title": "Structural Reinforcement",
+            "images": ["/assets/photos/2.jpg"],
+            "description": ""
+        },
+        {
+            "title": "Parede, 2025",
+            "images": ["/assets/photos/2.jpg"],
+            "description": ""
+        },
+        {
+            "title": "São João do Estoril, 2025",
+            "images": ["/assets/photos/2.jpg"],
+            "description": "Reconstruction of a chalet, preserving its original character while reimagining the interior into a modern and welcoming space."
+        }
+    ]
+}
     },
     "contacts": {
         "title": "CONTACTS",
@@ -97,3 +148,4 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
