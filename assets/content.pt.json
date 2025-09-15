@@ -52,7 +52,7 @@
             {
                 "title": "Avenidas Novas, 2024",
                 "images": ["/assets/photos/crisostomo1.jpg", "/assets/photos/crisostomo2.jpg", "/assets/photos/crisostomo3.jpg", "/assets/photos/crisostomo4.jpg", "/assets/photos/crisostomo5.jpg", "/assets/photos/crisostomo6.jpg", "/assets/photos/crisostomo7.jpg", "/assets/photos/crisostomo8.jpg", "/assets/photos/crisostomo9.jpg", "/assets/photos/crisostomo10.jpg", "/assets/photos/crisostomo11.jpg", "/assets/photos/crisostomo12.jpg", "/assets/photos/crisostomo13.jpg"],
-                "description": "Apartamento na Av. João Crisóstomo, no coração da cidade de Lisboa, caracterizado pela maximização do espaço e melhoria significativa da Classe energética, atendendo às diretrizes da CML para reabilitação de edificado."
+                "description": "Apartamento na Av. João Crisóstomo, para aluguer de longa duração, no coração da cidade de Lisboa, caracterizado pela maximização do espaço e melhoria significativa da Classe energética, atendendo às diretrizes da CML para reabilitação de edificado."
             },
             {
                 "title": "Parede, 2023",
@@ -90,14 +90,9 @@
                 "description": "Obra de remodelação exterior em moradia unifamiliar em condomínio na Parede, coroado pela integração de pérgola."
             }
             {
-                "title": "Av. João Crisóstomo, 2024",
-                "images": ["/assets/photos/2.jpg"],
-                "description": "Obra de remodelação integral de apartamento T1 para aluguer de longa duração na Av. João Crisóstomo."
-            }
-            {
                 "title": "Campo de Ourique, 2024",
                 "images": ["/assets/photos/2.jpg"],
-                "description": "Obra de remodelação integral de pequeno AL nuam zona previligiada de Lisboa."
+                "description": "Obra de remodelação integral de pequeno alojamento local numa zona previligiada de Lisboa."
             }
             {
                 "title": "Parede, 2021",
@@ -152,6 +147,7 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
 
