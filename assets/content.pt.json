@@ -60,9 +60,9 @@
                 "description": "Projeto de fit-out de um dos mais afamados restaurantes da linha de Cascais através da optimização da luz natural do espaço e adequando a transição sala-cozinha ao dia-a-dia dos colaboradores e responsáveis d'O Toscano."
             },
             {
-                "title": "Parede, 2023",
+                "title": "Parede, 2023-2024",
                 "images": ["/assets/photos/2.jpg"],
-                "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos de moradia com vista deslumbrante no alto da Parede."
+                "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos e pinturas, coberturas e impermeabilizações de moradia com vista deslumbrante no alto da Parede."
             },
               {
                 "title": "Parede, 2023",
@@ -76,13 +76,13 @@
             }
               {
                 "title": "Carcavelos, 2023",
-                "images": ["/assets/photos/2.jpg"],
-                "description": "De frente para a praia de Carcavelos, transformámos um espaço de meados do século passado num AL moderno e convidativo."
+                "images": ["/assets/photos/torre1.jpg", "/assets/photos/torre2.jpg", "/assets/photos/torre3.jpg", "/assets/photos/torre4.jpg", "/assets/photos/torre5.jpg", "/assets/photos/torre6.jpg", "/assets/photos/torre7.jpg"],
+                "description": "Transformámos um espaço de meados do século passado num AL moderno e convidativo, nas proximidades da praia de Carcavelos."
             }
             {
                 "title": "Junqueiro, 2023",
-                "images": ["/assets/photos/2.jpg"],
-                "description": "Obra de reabilitação integral de um pequeno apartamento, numa localização premium."
+                "images": ["/assets/photos/junq1.jpg", "/assets/photos/junq2.jpg", "/assets/photos/junq3.jpg", "/assets/photos/junq4.jpg", "/assets/photos/junq5.jpg", "/assets/photos/junq6.jpg"],
+                "description": "Obra de reabilitação integral de um pequeno apartamento transformado em AL, numa localização premium."
             }
              {
                 "title": "Parede, 2022",
@@ -90,7 +90,7 @@
                 "description": "Obra de remodelação exterior em moradia unifamiliar em condomínio na Parede, coroado pela integração de pérgola."
             }
             {
-                "title": "Campo de Ourique, 2024",
+                "title": "Campo de Ourique, 2023",
                 "images": ["/assets/photos/2.jpg"],
                 "description": "Obra de remodelação integral de pequeno alojamento local numa zona previligiada de Lisboa."
             }
@@ -147,4 +147,5 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
