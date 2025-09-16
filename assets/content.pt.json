@@ -111,7 +111,7 @@
             }
             {
                 "title": "São João do Estoril, 2025 (em execução)",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/ap01.jpg", "/assets/photos/ap02.jpg", "/assets/photos/ap1.jpg", "/assets/photos/ap2.jpg", "/assets/photos/ap3.jpg", "/assets/photos/ap4.jpg", "/assets/photos/ap5.jpg", "/assets/photos/ap6.jpg", "/assets/photos/ap7.jpg", "/assets/photos/ap8.jpg", "/assets/photos/ap9.jpg", "/assets/photos/ap10.jpg", "/assets/photos/ap11.jpg", "/assets/photos/ap12.jpg", "/assets/photos/ap13.jpg", "/assets/photos/ap14.jpg", "/assets/photos/ap15.jpg", "/assets/photos/ap16.jpg", "/assets/photos/ap17.jpg", "/assets/photos/ap18.jpg", "/assets/photos/ap19.jpg", "/assets/photos/ap20.jpg", "/assets/photos/ap21.jpg"],
                 "description": "Reconstrução de chalet, mantendo a traça original e revolucionando o seu interior - um espaço moderno e acolhedor."
             }
         ]
@@ -147,6 +147,7 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
 
