@@ -34,87 +34,88 @@
     "portfolio": {
     "title": "PORTFOLIO",
     "content": [
-        {
-            "title": "Manique, 2022",
-            "images": ["/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg"],
-            "description": "Guided by the extensive use of carpentry in reshaping the space, we restored this 19th-century residence to accommodate a new dwelling complemented by an adjoining commercial area."
-        },
-        {
-            "title": "São Domingos de Rana, 2022",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Rehabilitation of a single-family home, distinguished by its openness, soft lines, and fluid connection to the surrounding exterior."
-        },
-        {
-            "title": "Carcavelos, 2023",
-            "images": ["/assets/photos/1.jpeg"],
-            "description": "Following the completion of wastewater connections to the public network, we seized the opportunity to breathe life into two distinct spaces within a residence in the heart of Carcavelos."
-        },
-        {
-            "title": "Avenidas Novas, 2024",
-            "images": ["/assets/photos/crisostomo1.jpg", "/assets/photos/crisostomo2.jpg", "/assets/photos/crisostomo3.jpg", "/assets/photos/crisostomo4.jpg", "/assets/photos/crisostomo5.jpg", "/assets/photos/crisostomo6.jpg", "/assets/photos/crisostomo7.jpg", "/assets/photos/crisostomo8.jpg", "/assets/photos/crisostomo9.jpg", "/assets/photos/crisostomo10.jpg", "/assets/photos/crisostomo11.jpg", "/assets/photos/crisostomo12.jpg", "/assets/photos/crisostomo13.jpg"],
-            "description": "Apartment on Avenida João Crisóstomo, designed for long-term rental in the heart of Lisbon, marked by the maximization of space and a significant improvement in its energy rating, in accordance with CML guidelines for building rehabilitation."
-        },
-        {
-            "title": "Parede, 2023",
-            "images": ["/assets/photos/1.jpeg"],
-            "description": "Fit-out project for one of the most renowned restaurants along the Cascais coastline, enhancing natural light within the space while refining the kitchen-to-dining transition to meet the daily needs of the team at O Toscano."
-        },
-        {
-            "title": "Parede, 2023",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Renovation works on an exterior patio, swimming pool, and landscaped gardens of a residence offering a breathtaking view atop Parede."
-        },
-        {
-            "title": "Parede, 2023",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Complete refurbishment of a spacious four-bedroom apartment in central Parede, where simplicity and clarity of lines took precedence."
-        },
-        {
-            "title": "Carcavelos, 2024",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "In the heart of Carcavelos, we revitalized a four-bedroom apartment from the early 2000s."
-        },
-        {
-            "title": "Carcavelos, 2023",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Facing Carcavelos Beach, we transformed a mid-20th-century property into a modern and inviting short-term rental."
-        },
-        {
-            "title": "Junqueiro, 2023",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Comprehensive renovation of a compact apartment in a prime location."
-        },
-        {
-            "title": "Parede, 2022",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Exterior refurbishment of a single-family home within a gated community in Parede, crowned by the integration of a pergola."
-        },
-        {
-            "title": "Campo de Ourique, 2024",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Full renovation of a small short-term rental property in a privileged area of Lisbon."
-        },
-        {
-            "title": "Parede, 2021",
-            "images": ["/assets/photos/2.jpg"],
-            "description": ""
-        },
-        {
-            "title": "Structural Reinforcement",
-            "images": ["/assets/photos/2.jpg"],
-            "description": ""
-        },
-        {
-            "title": "Parede, 2025",
-            "images": ["/assets/photos/2.jpg"],
-            "description": ""
-        },
-        {
-            "title": "São João do Estoril, 2025",
-            "images": ["/assets/photos/2.jpg"],
-            "description": "Reconstruction of a chalet, preserving its original character while reimagining the interior into a modern and welcoming space."
-        }
-    ]
+   [
+  {
+    "title": "Parede, 2025 (ongoing)",
+    "images": ["/assets/photos/chs1.jpg", "/assets/photos/chs2.jpg", "/assets/photos/chs3.jpg", "/assets/photos/chs4.jpg", "/assets/photos/chs5.jpg", "/assets/photos/chs6.jpg", "/assets/photos/chs7.jpg", "/assets/photos/chs8.jpg", "/assets/photos/chs9.jpg", "/assets/photos/chs10.jpg"],
+    "description": "Demolition and reconstruction of a residential building in the historic center of Parede, designed for multi-family housing."
+  },
+  {
+    "title": "São João do Estoril, 2025 (ongoing)",
+    "images": ["/assets/photos/ap01.jpg", "/assets/photos/ap02.jpg", "/assets/photos/ap1.jpg", "/assets/photos/ap2.jpg", "/assets/photos/ap3.jpg", "/assets/photos/ap4.jpg", "/assets/photos/ap5.jpg", "/assets/photos/ap6.jpg", "/assets/photos/ap7.jpg", "/assets/photos/ap8.jpg", "/assets/photos/ap9.jpg", "/assets/photos/ap10.jpg", "/assets/photos/ap11.jpg", "/assets/photos/ap12.jpg", "/assets/photos/ap13.jpg", "/assets/photos/ap14.jpg", "/assets/photos/ap15.jpg", "/assets/photos/ap16.jpg", "/assets/photos/ap17.jpg", "/assets/photos/ap18.jpg", "/assets/photos/ap19.jpg", "/assets/photos/ap20.jpg", "/assets/photos/ap21.jpg"],
+    "description": "Reconstruction of a 19th-century chalet, preserving its original character while transforming the interior into a modern and welcoming space — with the historic millstone that once stood here carefully integrated."
+  },
+  {
+    "title": "Manique, 2022",
+    "images": ["/assets/photos/e1.jpeg", "/assets/photos/e2.jpg", "/assets/photos/e3.jpeg", "/assets/photos/e4.jpg", "/assets/photos/e5.jpg", "/assets/photos/e6.jpg", "/assets/photos/e7.jpg"],
+    "description": "Guided by extensive use of bespoke carpentry, we rehabilitated this 19th-century house to create a new residential unit complemented by an adjoining commercial area."
+  },
+  {
+    "title": "São Domingos de Rana, 2022",
+    "images": ["/assets/photos/capa11.jpg", "/assets/photos/capa12.jpg", "/assets/photos/capa13.jpg", "/assets/photos/capa15.jpg", "/assets/photos/capa16.jpg","/assets/photos/capa17.jpg", "/assets/photos/capa18.jpg", "/assets/photos/capa19.jpg", "/assets/photos/capa20.jpg"],
+    "description": "Renovation of a single-family home, defined by the opening of spaces, soft architectural lines, and a strong connection to the surrounding outdoors."
+  },
+  {
+    "title": "Carcavelos, 2023",
+    "images": ["/assets/photos/san1.jpeg", "/assets/photos/san2.jpeg", "/assets/photos/san3.jpeg", "/assets/photos/san4.jpeg", "/assets/photos/san5.jpeg"],
+    "description": "Following the completion of public sewage connections, we revitalized two distinct areas within a villa in the heart of Carcavelos."
+  },
+  {
+    "title": "Avenidas Novas, 2024",
+    "images": ["/assets/photos/crisostomo1.jpg", "/assets/photos/crisostomo2.jpg", "/assets/photos/crisostomo3.jpg", "/assets/photos/crisostomo4.jpg", "/assets/photos/crisostomo5.jpg", "/assets/photos/crisostomo6.jpg", "/assets/photos/crisostomo7.jpg", "/assets/photos/crisostomo8.jpg", "/assets/photos/crisostomo9.jpg", "/assets/photos/crisostomo10.jpg", "/assets/photos/crisostomo11.jpg", "/assets/photos/crisostomo12.jpg", "/assets/photos/crisostomo13.jpg"],
+    "description": "Apartment on Av. João Crisóstomo, Lisbon, reimagined for long-term rental. The project focused on optimizing space and achieving a significant improvement in energy performance, in line with the city’s rehabilitation guidelines."
+  },
+  {
+    "title": "Parede, 2023",
+    "images": ["/assets/photos/tosc1.jpeg", "/assets/photos/tosc2.jpeg", "/assets/photos/tosc3.jpeg", "/assets/photos/tosc4.jpeg", "/assets/photos/tosc5.jpeg"],
+    "description": "Interior fit-out for one of Cascais’ most renowned restaurants, enhancing natural light and creating a seamless flow between dining room and kitchen in the daily rhythm of O Toscano."
+  },
+  {
+    "title": "Parede, 2023–2024",
+    "images": ["/assets/photos/ne1.jpg", "/assets/photos/ne2.jpg", "/assets/photos/ne3.jpg"],
+    "description": "Comprehensive refurbishment of an exterior patio, swimming pool, landscaping, roofing, painting, and waterproofing works for a villa with breathtaking views over Parede."
+  },
+  {
+    "title": "Parede, 2023",
+    "images": ["/assets/photos/so1.jpg", "/assets/photos/so2.jpg", "/assets/photos/so3.jpg", "/assets/photos/so4.jpg", "/assets/photos/so5.jpg", "/assets/photos/so6.jpg", "/assets/photos/so7.jpg", "/assets/photos/so8.jpg", "/assets/photos/so9.jpg", "/assets/photos/so10.jpg", "/assets/photos/so11.jpg", "/assets/photos/so12.jpg", "/assets/photos/so13.jpg", "/assets/photos/so14.jpg"],
+    "description": "Complete renovation of a spacious four-bedroom apartment in central Parede, prioritizing simplicity and clean architectural lines."
+  },
+  {
+    "title": "Carcavelos, 2024",
+    "images": ["/assets/photos/ga1.jpg", "/assets/photos/ga2.jpg", "/assets/photos/ga3.jpg", "/assets/photos/ga4.jpg", "/assets/photos/ga5.jpg", "/assets/photos/ga6.jpg", "/assets/photos/ga7.jpg", "/assets/photos/ga8.jpg"],
+    "description": "In the heart of Carcavelos, we gave new life to an early-2000s four-bedroom apartment."
+  },
+  {
+    "title": "Carcavelos, 2023",
+    "images": ["/assets/photos/torre1.jpg", "/assets/photos/torre2.jpg", "/assets/photos/torre3.jpg", "/assets/photos/torre4.jpg", "/assets/photos/torre5.jpg", "/assets/photos/torre6.jpg", "/assets/photos/torre7.jpg"],
+    "description": "Transformation of a mid-20th-century space into a modern and inviting short-term rental, just steps from Carcavelos beach."
+  },
+  {
+    "title": "Junqueiro, 2023",
+    "images": ["/assets/photos/junq1.jpg", "/assets/photos/junq2.jpg", "/assets/photos/junq3.jpg", "/assets/photos/junq4.jpg", "/assets/photos/junq5.jpg", "/assets/photos/junq6.jpg"],
+    "description": "Full rehabilitation of a small apartment converted into short-term rental accommodation in a prime coastal location."
+  },
+  {
+    "title": "Parede, 2022",
+    "images": ["/assets/photos/ana1.jpg", "/assets/photos/ana2.jpg", "/assets/photos/ana3.jpg", "/assets/photos/ana4.jpg", "/assets/photos/ana5.jpg", "/assets/photos/ana6.jpg", "/assets/photos/ana7.jpg"],
+    "description": "Exterior renovation of a single-family home in a gated community, crowned by the integration of a modern pergola."
+  },
+  {
+    "title": "Campo de Ourique, 2023",
+    "images": ["/assets/photos/sna1.jpg", "/assets/photos/sna2.jpg", "/assets/photos/sna3.jpg", "/assets/photos/sna4.jpg", "/assets/photos/sna5.jpg", "/assets/photos/sna6.jpg"],
+    "description": "Complete rehabilitation of a compact short-term rental apartment in one of Lisbon’s most sought-after neighborhoods."
+  },
+  {
+    "title": "Parede, 2021",
+    "images": ["/assets/photos/ze1.jpg", "/assets/photos/ze2.jpg", "/assets/photos/ze3.jpg", "/assets/photos/ze4.jpg", "/assets/photos/ze5.jpg", "/assets/photos/ze6.jpg", "/assets/photos/ze7.jpg"],
+    "description": "Transformation of the outdoor area of a single-family home in Parede, including the creation of a cozy winter garden, new finishes, and proper waterproofing of the flat roof."
+  },
+  {
+    "title": "Structural Reinforcement Projects",
+    "images": ["/assets/photos/ref1.jpg", "/assets/photos/ref2.jpg", "/assets/photos/ref3.jpg", "/assets/photos/ref4.jpg", "/assets/photos/ref5.jpg", "/assets/photos/ref6.jpg", "/assets/photos/ref7.jpg", "/assets/photos/ref8.jpg"],
+    "description": "Many architectural interventions require structural reinforcement prior to execution — a crucial foundation for long-term stability and design integrity."
+  },
+  ]
 }
     },
     "contacts": {
@@ -148,4 +149,5 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
