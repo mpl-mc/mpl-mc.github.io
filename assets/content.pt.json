@@ -91,7 +91,7 @@
             }
             {
                 "title": "Campo de Ourique, 2023",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/sna1.jpg", "/assets/photos/sna2.jpg", "/assets/photos/sna3.jpg", "/assets/photos/sna4.jpg", "/assets/photos/sna5.jpg", "/assets/photos/sna6.jpg"],
                 "description": "Obra de remodelação integral de pequeno alojamento local numa zona previligiada de Lisboa."
             }
             {
@@ -147,4 +147,5 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
