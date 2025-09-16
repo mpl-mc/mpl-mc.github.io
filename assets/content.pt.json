@@ -101,8 +101,8 @@
             }
                 {
                 "title": "Projetos de reforço estrutural",
-                "images": ["/assets/photos/2.jpg"],
-                "description": "."
+                "images": ["/assets/photos/ref1.jpg", "/assets/photos/ref2.jpg", "/assets/photos/ref3.jpg", "/assets/photos/ref4.jpg", "/assets/photos/ref5.jpg", "/assets/photos/ref6.jpg", "/assets/photos/ref7.jpg", "/assets/photos/ref8.jpg"],
+                "description": "Alguns projetos cuja intervenção tem de incluir o reforço estrutural previamente à execução do projeto de Arquitetura."
             }
                  {
                 "title": "Parede, 2025 (em execução)",
@@ -147,6 +147,7 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
 
