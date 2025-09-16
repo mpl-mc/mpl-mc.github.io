@@ -71,7 +71,7 @@
             }
             {
                 "title": "Carcavelos, 2024",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/ga1.jpg", "/assets/photos/ga2.jpg", "/assets/photos/ga3.jpg", "/assets/photos/ga4.jpg", "/assets/photos/ga5.jpg", "/assets/photos/ga6.jpg", "/assets/photos/ga7.jpg", "/assets/photos/ga8.jpg"],
                 "description": "No coração de Carcavelos, demos uma nova vida a um apartamento T4 do início do milénio."
             }
               {
@@ -97,10 +97,10 @@
             {
                 "title": "Parede, 2021",
                 "images": ["/assets/photos/2.jpg"],
-                "description": "."
+                "description": "Obra de alteração de espaço exterior de moradia unifamiliar na Parede, através da construção de um acolhedor jardim de inverno."
             }
                 {
-                "title": "Reforço estrutural",
+                "title": "Projetos de reforço estrutural",
                 "images": ["/assets/photos/2.jpg"],
                 "description": "."
             }
@@ -147,5 +147,6 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
