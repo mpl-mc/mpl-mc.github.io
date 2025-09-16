@@ -41,13 +41,13 @@
             },
             {
                 "title": "São Domingos de Rana, 2022",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/capa11.jpg", "/assets/photos/capa12.jpg", "/assets/photos/capa13.jpg", "/assets/photos/capa15.jpg", "/assets/photos/capa16.jpg","/assets/photos/capa17.jpg", "/assets/photos/capa18.jpg", "/assets/photos/capa19.jpg", "/assets/photos/capa20.jpg"],
                 "description": "Reabilitação de moradia unifamiliar, caracterizada pela abertura do espaço com linhas suaves e ligação à envolovente exterior."
             },
             {
                 "title": "Carcavelos, 2023",
-                "images": ["/assets/photos/1.jpeg"],
-                "description": "Após conclusão das ligações de águas residuais à rede pública, aproveitámos paradar vida a dois espaços numa Moradia no coração de Carcavelos."
+                "images": ["/assets/photos/san1.jpeg", "/assets/photos/san2.jpeg", "/assets/photos/san3.jpeg", "/assets/photos/san4.jpeg", "/assets/photos/san5.jpeg"],
+                "description": "Após conclusão das ligações de águas residuais à rede pública, aproveitámos para dar vida a dois espaços numa Moradia no coração de Carcavelos."
             },
             {
                 "title": "Avenidas Novas, 2024",
@@ -56,13 +56,13 @@
             },
             {
                 "title": "Parede, 2023",
-                "images": ["/assets/photos/1.jpeg"],
+                "images": ["/assets/photos/tosc1.jpeg", "/assets/photos/tosc2.jpeg", "/assets/photos/tosc3.jpeg"],
                 "description": "Projeto de fit-out de um dos mais afamados restaurantes da linha de Cascais através da optimização da luz natural do espaço e adequando a transição sala-cozinha ao dia-a-dia dos colaboradores e responsáveis d'O Toscano."
             },
             {
                 "title": "Parede, 2023",
                 "images": ["/assets/photos/2.jpg"],
-                "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos de moradia com vista deslumbrante no alto da Paredeo."
+                "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos de moradia com vista deslumbrante no alto da Parede."
             },
               {
                 "title": "Parede, 2023",
@@ -147,3 +147,4 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
