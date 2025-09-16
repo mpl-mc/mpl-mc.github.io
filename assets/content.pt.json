@@ -66,7 +66,7 @@
             },
               {
                 "title": "Parede, 2023",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/so1.jpg", "/assets/photos/so2.jpg", "/assets/photos/so3.jpg", "/assets/photos/so4.jpg", "/assets/photos/so5.jpg", "/assets/photos/so6.jpg", "/assets/photos/so7.jpg", "/assets/photos/so8.jpg", "/assets/photos/so9.jpg", "/assets/photos/so10.jpg", "/assets/photos/so11.jpg", "/assets/photos/so12.jpg", "/assets/photos/so13.jpg", "/assets/photos/so14.jpg"],
                 "description": "Remodelação integral de apartamento T4 com áreas generosas no centro da Parede, onde se deu primazia à simplicidade do espaço, com linhas claras."
             }
             {
@@ -147,6 +147,7 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
 
