@@ -61,7 +61,7 @@
             },
             {
                 "title": "Parede, 2023-2024",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/ne1.jpg", "/assets/photos/ne2.jpg", "/assets/photos/ne3.jpg"],
                 "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos e pinturas, coberturas e impermeabilizações de moradia com vista deslumbrante no alto da Parede."
             },
               {
@@ -147,5 +147,6 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
