@@ -82,9 +82,9 @@
       {
         "title": "Manique, 2022",
         "images": [
-          "/assets/photos/e1.jpeg",
+          "/assets/photos/e1.jpg",
           "/assets/photos/e2.jpg",
-          "/assets/photos/e3.jpeg",
+          "/assets/photos/e3.jpg",
           "/assets/photos/e4.jpg",
           "/assets/photos/e5.jpg",
           "/assets/photos/e6.jpg",
@@ -110,11 +110,11 @@
       {
         "title": "Carcavelos, 2023",
         "images": [
-          "/assets/photos/san1.jpeg",
-          "/assets/photos/san2.jpeg",
-          "/assets/photos/san3.jpeg",
-          "/assets/photos/san4.jpeg",
-          "/assets/photos/san5.jpeg"
+          "/assets/photos/san1.jpg",
+          "/assets/photos/san2.jpg",
+          "/assets/photos/san3.jpg",
+          "/assets/photos/san4.jpg",
+          "/assets/photos/san5.jpg"
         ],
         "description": "Following the completion of public sewage connections, we revitalized two distinct areas within a villa in the heart of Carcavelos."
       },
@@ -140,11 +140,11 @@
       {
         "title": "Parede, 2023",
         "images": [
-          "/assets/photos/tosc1.jpeg",
-          "/assets/photos/tosc2.jpeg",
-          "/assets/photos/tosc3.jpeg",
-          "/assets/photos/tosc4.jpeg",
-          "/assets/photos/tosc5.jpeg"
+          "/assets/photos/tosc1.jpg",
+          "/assets/photos/tosc2.jpg",
+          "/assets/photos/tosc3.jpg",
+          "/assets/photos/tosc4.jpg",
+          "/assets/photos/tosc5.jpg"
         ],
         "description": "Interior fit-out for one of Cascais’ most renowned restaurants, enhancing natural light and creating a seamless flow between dining room and kitchen in the daily rhythm of O Toscano."
       },
@@ -207,12 +207,12 @@
       {
         "title": "Junqueiro, 2023",
         "images": [
-          "/assets/photos/junq1.jpg",
-          "/assets/photos/junq2.jpg",
-          "/assets/photos/junq3.jpg",
-          "/assets/photos/junq4.jpg",
-          "/assets/photos/junq5.jpg",
-          "/assets/photos/junq6.jpg"
+          "/assets/photos/junq1.jpeg",
+          "/assets/photos/junq2.jpeg",
+          "/assets/photos/junq3.jpeg",
+          "/assets/photos/junq4.jpeg",
+          "/assets/photos/junq5.jpeg",
+          "/assets/photos/junq6.jpeg"
         ],
         "description": "Full rehabilitation of a small apartment converted into short-term rental accommodation in a prime coastal location."
       },
