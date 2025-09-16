@@ -35,6 +35,16 @@
         "title" : "PORTEFÓLIO",
         "content": [
             {
+                "title": "Parede, 2025 (em execução)",
+                "images": ["/assets/photos/chs1.jpg", "/assets/photos/chs2.jpg", "/assets/photos/chs3.jpg", "/assets/photos/chs4.jpg", "/assets/photos/chs5.jpg", "/assets/photos/chs6.jpg", "/assets/photos/chs7.jpg", "/assets/photos/chs8.jpg", "/assets/photos/chs9.jpg", "/assets/photos/chs10.jpg"],
+                "description": "Projeto de demolição e reconstrução de prédio na zona histórica da parede destinado a habitação multifamiliar."
+            },
+            {
+                "title": "São João do Estoril, 2025 (em execução)",
+                "images": ["/assets/photos/ap01.jpg", "/assets/photos/ap02.jpg", "/assets/photos/ap1.jpg", "/assets/photos/ap2.jpg", "/assets/photos/ap3.jpg", "/assets/photos/ap4.jpg", "/assets/photos/ap5.jpg", "/assets/photos/ap6.jpg", "/assets/photos/ap7.jpg", "/assets/photos/ap8.jpg", "/assets/photos/ap9.jpg", "/assets/photos/ap10.jpg", "/assets/photos/ap11.jpg", "/assets/photos/ap12.jpg", "/assets/photos/ap13.jpg", "/assets/photos/ap14.jpg", "/assets/photos/ap15.jpg", "/assets/photos/ap16.jpg", "/assets/photos/ap17.jpg", "/assets/photos/ap18.jpg", "/assets/photos/ap19.jpg", "/assets/photos/ap20.jpg", "/assets/photos/ap21.jpg"],
+                "description": "Reconstrução de chalet do séc. XIX, mantendo a traça original e revolucionando o seu interior - um espaço moderno e acolhedor, preservando a mó do moinho que aí existia."
+            },            
+            {
                 "title": "Manique, 2022",
                 "images": ["/assets/photos/e1.jpeg", "/assets/photos/e2.jpg", "/assets/photos/e3.jpeg", "/assets/photos/e4.jpg", "/assets/photos/e5.jpg", "/assets/photos/e6.jpg", "/assets/photos/e7.jpg"],
                 "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
@@ -57,63 +67,53 @@
             {
                 "title": "Parede, 2023",
                 "images": ["/assets/photos/tosc1.jpeg", "/assets/photos/tosc2.jpeg", "/assets/photos/tosc3.jpeg", "/assets/photos/tosc4.jpeg", "/assets/photos/tosc5.jpeg"],
-                "description": "Projeto de fit-out de um dos mais afamados restaurantes da linha de Cascais através da optimização da luz natural do espaço e adequando a transição sala-cozinha ao dia-a-dia dos colaboradores e responsáveis d'O Toscano."
+                "description": "Projeto de fit-out de um dos mais afamados restaurantes da linha de Cascais, através do aproveitamento da luz natural e da fluidez da transição sala-cozinha no dia a dia d'O Toscano."
             },
             {
                 "title": "Parede, 2023-2024",
                 "images": ["/assets/photos/ne1.jpg", "/assets/photos/ne2.jpg", "/assets/photos/ne3.jpg"],
                 "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos e pinturas, coberturas e impermeabilizações de moradia com vista deslumbrante no alto da Parede."
             },
-              {
+            {
                 "title": "Parede, 2023",
                 "images": ["/assets/photos/so1.jpg", "/assets/photos/so2.jpg", "/assets/photos/so3.jpg", "/assets/photos/so4.jpg", "/assets/photos/so5.jpg", "/assets/photos/so6.jpg", "/assets/photos/so7.jpg", "/assets/photos/so8.jpg", "/assets/photos/so9.jpg", "/assets/photos/so10.jpg", "/assets/photos/so11.jpg", "/assets/photos/so12.jpg", "/assets/photos/so13.jpg", "/assets/photos/so14.jpg"],
                 "description": "Remodelação integral de apartamento T4 com áreas generosas no centro da Parede, onde se deu primazia à simplicidade do espaço, com linhas claras."
-            }
+            },
             {
                 "title": "Carcavelos, 2024",
                 "images": ["/assets/photos/ga1.jpg", "/assets/photos/ga2.jpg", "/assets/photos/ga3.jpg", "/assets/photos/ga4.jpg", "/assets/photos/ga5.jpg", "/assets/photos/ga6.jpg", "/assets/photos/ga7.jpg", "/assets/photos/ga8.jpg"],
                 "description": "No coração de Carcavelos, demos uma nova vida a um apartamento T4 do início do milénio."
-            }
-              {
+            },
+            {
                 "title": "Carcavelos, 2023",
                 "images": ["/assets/photos/torre1.jpg", "/assets/photos/torre2.jpg", "/assets/photos/torre3.jpg", "/assets/photos/torre4.jpg", "/assets/photos/torre5.jpg", "/assets/photos/torre6.jpg", "/assets/photos/torre7.jpg"],
                 "description": "Transformámos um espaço de meados do século passado num AL moderno e convidativo, nas proximidades da praia de Carcavelos."
-            }
+            },
             {
                 "title": "Junqueiro, 2023",
                 "images": ["/assets/photos/junq1.jpg", "/assets/photos/junq2.jpg", "/assets/photos/junq3.jpg", "/assets/photos/junq4.jpg", "/assets/photos/junq5.jpg", "/assets/photos/junq6.jpg"],
                 "description": "Obra de reabilitação integral de um pequeno apartamento transformado em AL, numa localização premium."
-            }
-             {
+            },
+            {
                 "title": "Parede, 2022",
                 "images": ["/assets/photos/ana1.jpg", "/assets/photos/ana2.jpg", "/assets/photos/ana3.jpg", "/assets/photos/ana4.jpg", "/assets/photos/ana5.jpg", "/assets/photos/ana6.jpg", "/assets/photos/ana7.jpg"],
                 "description": "Obra de remodelação exterior em moradia unifamiliar em condomínio na Parede, coroado pela integração de pérgola."
-            }
+            },
             {
                 "title": "Campo de Ourique, 2023",
                 "images": ["/assets/photos/sna1.jpg", "/assets/photos/sna2.jpg", "/assets/photos/sna3.jpg", "/assets/photos/sna4.jpg", "/assets/photos/sna5.jpg", "/assets/photos/sna6.jpg"],
                 "description": "Obra de remodelação integral de pequeno alojamento local numa zona previligiada de Lisboa."
-            }
+            },
             {
                 "title": "Parede, 2021",
                 "images": ["/assets/photos/ze1.jpg", "/assets/photos/ze2.jpg", "/assets/photos/ze3.jpg", "/assets/photos/ze4.jpg", "/assets/photos/ze5.jpg", "/assets/photos/ze6.jpg", "/assets/photos/ze7.jpg"],
-                "description": "Obra de alteração de espaço exterior de moradia unifamiliar na Parede, através da construção de um acolhedor jardim de inverno. Aproveitámos também para executar uma correta impermeabilização da cobertura plana da habitação"
-            }
-                {
+                "description": "Obra de alteração de espaço exterior de moradia unifamiliar na Parede, através da construção de um acolhedor jardim de inverno. Aproveitámos também para executar novos revestimentos de pintura e a correta impermeabilização da cobertura plana da habitação"
+            },
+            {
                 "title": "Projetos de reforço estrutural",
                 "images": ["/assets/photos/ref1.jpg", "/assets/photos/ref2.jpg", "/assets/photos/ref3.jpg", "/assets/photos/ref4.jpg", "/assets/photos/ref5.jpg", "/assets/photos/ref6.jpg", "/assets/photos/ref7.jpg", "/assets/photos/ref8.jpg"],
-                "description": "Alguns projetos cuja intervenção tem de incluir o reforço estrutural previamente à execução do projeto de Arquitetura."
-            }
-                 {
-                "title": "Parede, 2025 (em execução)",
-                "images": ["/assets/photos/chs1.jpg", "/assets/photos/chs2.jpg", "/assets/photos/chs3.jpg", "/assets/photos/chs4.jpg", "/assets/photos/chs5.jpg", "/assets/photos/chs6.jpg", "/assets/photos/chs7.jpg", "/assets/photos/chs8.jpg", "/assets/photos/chs9.jpg", "/assets/photos/chs10.jpg"],
-                "description": "Projeto de reconstrução de prédio na zona histórica da parede destinado a habitação multifamiliar."
-            }
-            {
-                "title": "São João do Estoril, 2025 (em execução)",
-                "images": ["/assets/photos/ap01.jpg", "/assets/photos/ap02.jpg", "/assets/photos/ap1.jpg", "/assets/photos/ap2.jpg", "/assets/photos/ap3.jpg", "/assets/photos/ap4.jpg", "/assets/photos/ap5.jpg", "/assets/photos/ap6.jpg", "/assets/photos/ap7.jpg", "/assets/photos/ap8.jpg", "/assets/photos/ap9.jpg", "/assets/photos/ap10.jpg", "/assets/photos/ap11.jpg", "/assets/photos/ap12.jpg", "/assets/photos/ap13.jpg", "/assets/photos/ap14.jpg", "/assets/photos/ap15.jpg", "/assets/photos/ap16.jpg", "/assets/photos/ap17.jpg", "/assets/photos/ap18.jpg", "/assets/photos/ap19.jpg", "/assets/photos/ap20.jpg", "/assets/photos/ap21.jpg"],
-                "description": "Reconstrução de chalet, mantendo a traça original e revolucionando o seu interior - um espaço moderno e acolhedor."
-            }
+                "description": "Muitos projetos necessitam de reforço estrutural previamente à execução do projeto de Arquitetura..."
+            },
         ]
     },
     "contacts": {
@@ -147,6 +147,7 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
 
