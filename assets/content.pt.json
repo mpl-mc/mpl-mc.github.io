@@ -86,7 +86,7 @@
             }
              {
                 "title": "Parede, 2022",
-                "images": ["/assets/photos/2.jpg"],
+                "images": ["/assets/photos/ana1.jpg", "/assets/photos/ana2.jpg", "/assets/photos/ana3.jpg", "/assets/photos/ana4.jpg", "/assets/photos/ana5.jpg", "/assets/photos/ana6.jpg", "/assets/photos/ana7.jpg"],
                 "description": "Obra de remodelação exterior em moradia unifamiliar em condomínio na Parede, coroado pela integração de pérgola."
             }
             {
@@ -105,12 +105,12 @@
                 "description": "."
             }
                  {
-                "title": "Parede, 2025",
+                "title": "Parede, 2025 (em execução)",
                 "images": ["/assets/photos/2.jpg"],
-                "description": "."
+                "description": "Projeto de reconstrução de prédio na zona histórica da parede destinado a habitação multifamiliar."
             }
             {
-                "title": "São João do Estoril, 2025",
+                "title": "São João do Estoril, 2025 (em execução)",
                 "images": ["/assets/photos/2.jpg"],
                 "description": "Reconstrução de chalet, mantendo a traça original e revolucionando o seu interior - um espaço moderno e acolhedor."
             }
@@ -147,8 +147,4 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
-
-
-
-
 
