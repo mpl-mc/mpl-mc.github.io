@@ -36,7 +36,7 @@
         "content": [
             {
                 "title": "Manique, 2022",
-                "images": ["/assets/photos/1.jpeg", "/assets/photos/2.jpg", "/assets/photos/1.jpeg", "/assets/photos/2.jpg"],
+                "images": ["/assets/photos/e1.jpeg", "/assets/photos/e2.jpg", "/assets/photos/e3.jpeg", "/assets/photos/e4.jpg", "/assets/photos/e5.jpg", "/assets/photos/e6.jpg", "/assets/photos/e7.jpg"],
                 "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
             },
             {
@@ -147,6 +147,7 @@
       "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
     }
 }
+
 
 
 
