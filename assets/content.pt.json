@@ -293,7 +293,7 @@
     "complains": "Livro de reclamações"
   },
   "placeholders": {
-    "subject": "Escreva aqui a seu assunto...",
+    "subject": "Escreva aqui o seu assunto...",
     "message": "Escreva aqui a sua mensagem..."
   },
   "links": {
@@ -301,4 +301,5 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
   }
 }
+
 
