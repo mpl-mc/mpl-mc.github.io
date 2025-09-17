@@ -5,7 +5,7 @@
       "Founded in 2020, MPL & MC Engenharia, Lda. operates within the construction sector, specializing in the rehabilitation and construction of both residential and commercial buildings.",
       "We are committed to the execution, management, supervision, and monitoring of our projects, relying on the technical expertise and experience of our professionals, who form a young, dynamic, and responsible team.",
       "Our engineering and construction solutions are carefully tailored to meet the unique needs of each client, with detailed budget proposals aimed at optimizing costs while ensuring the timely completion of projects.",
-      "Our primary focus is on delivering exceptional quality, which enables us to diƯerentiate ourselves in this highly competitive market. Our reputation has been built on providing personalized service to our clients."
+      "Our primary focus is on delivering exceptional quality, which enables us to diferentiate ourselves in this highly competitive market. Our reputation has been built on providing personalized service to our clients."
     ]
   },
   "services": {
@@ -286,7 +286,7 @@
     "follow": "FOLLOW US",
     "more": "See More",
     "less": "See Less",
-    "form": "GET IN TOUCH",
+    "form": "CONTACT US",
     "subject": "Subject",
     "message": "Message",
     "send": "Send",
@@ -298,6 +298,7 @@
   },
   "links": {
     "linkedin": "https://www.linkedin.com/company/mpl-mc-engenharia/",
-    "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-ltda"
+    "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
