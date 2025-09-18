@@ -35,6 +35,21 @@
     "title": "PORTEFÓLIO",
     "content": [
       {
+        "title": "São Domingos de Rana, 2022",
+        "images": [
+          "/assets/photos/capa18.jpg",
+          "/assets/photos/capa17.jpg",
+          "/assets/photos/capa15.jpg",
+          "/assets/photos/capa12.jpg",
+          "/assets/photos/capa13.jpg",
+          "/assets/photos/capa16.jpg",
+          "/assets/photos/capa11.jpg",
+          "/assets/photos/capa19.jpg",
+          "/assets/photos/capa20.jpg"
+        ],
+        "description": "Reabilitação de moradia unifamiliar, caracterizada pela abertura do espaço com linhas suaves e ligação à envolovente exterior."
+      },
+      {
         "title": "Parede, 2025 (em execução)",
         "images": [
           "/assets/photos/chs8.jpg",
@@ -91,21 +106,6 @@
           "/assets/photos/e7.jpg"
         ],
         "description": "Pautada pelo uso extensivo de Carpintaria na transformação do espaço, reabilitámos esta moradia do séc. XIX para acomodar um novo espaço habitacional complementado por área comercial contígua."
-      },
-      {
-        "title": "São Domingos de Rana, 2022",
-        "images": [
-          "/assets/photos/capa18.jpg",
-          "/assets/photos/capa17.jpg",
-          "/assets/photos/capa15.jpg",
-          "/assets/photos/capa12.jpg",
-          "/assets/photos/capa13.jpg",
-          "/assets/photos/capa16.jpg",
-          "/assets/photos/capa11.jpg",
-          "/assets/photos/capa19.jpg",
-          "/assets/photos/capa20.jpg"
-        ],
-        "description": "Reabilitação de moradia unifamiliar, caracterizada pela abertura do espaço com linhas suaves e ligação à envolovente exterior."
       },
       {
         "title": "Carcavelos, 2023",
@@ -219,12 +219,12 @@
       {
         "title": "Parede, 2022",
         "images": [
-          "/assets/photos/ana1.jpg",
+          "/assets/photos/ana6.jpg",
           "/assets/photos/ana2.jpg",
           "/assets/photos/ana3.jpg",
           "/assets/photos/ana4.jpg",
           "/assets/photos/ana5.jpg",
-          "/assets/photos/ana6.jpg",
+          "/assets/photos/ana1.jpg",
           "/assets/photos/ana7.jpg"
         ],
         "description": "Obra de remodelação exterior em moradia unifamiliar em condomínio na Parede, coroado pela integração de pérgola."
@@ -301,6 +301,7 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
 
 
