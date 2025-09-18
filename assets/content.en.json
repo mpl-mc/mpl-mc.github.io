@@ -37,14 +37,14 @@
       {
         "title": "Parede, 2025 (ongoing)",
         "images": [
-          "/assets/photos/chs1.jpg",
+          "/assets/photos/chs8.jpg",
           "/assets/photos/chs2.jpg",
           "/assets/photos/chs3.jpg",
           "/assets/photos/chs4.jpg",
           "/assets/photos/chs5.jpg",
           "/assets/photos/chs6.jpg",
           "/assets/photos/chs7.jpg",
-          "/assets/photos/chs8.jpg",
+          "/assets/photos/chs1.jpg",
           "/assets/photos/chs9.jpg",
           "/assets/photos/chs10.jpg"
         ],
@@ -95,13 +95,13 @@
       {
         "title": "São Domingos de Rana, 2022",
         "images": [
-          "/assets/photos/capa11.jpg",
-          "/assets/photos/capa12.jpg",
-          "/assets/photos/capa13.jpg",
-          "/assets/photos/capa15.jpg",
-          "/assets/photos/capa16.jpg",
-          "/assets/photos/capa17.jpg",
           "/assets/photos/capa18.jpg",
+          "/assets/photos/capa17.jpg",
+          "/assets/photos/capa12.jpg",
+          "/assets/photos/capa15.jpg",
+          "/assets/photos/capa13.jpg",
+          "/assets/photos/capa16.jpg",
+          "/assets/photos/capa11.jpg",
           "/assets/photos/capa19.jpg",
           "/assets/photos/capa20.jpg"
         ],
@@ -301,4 +301,5 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
