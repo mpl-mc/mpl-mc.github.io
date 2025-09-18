@@ -140,10 +140,10 @@
       {
         "title": "Parede, 2023",
         "images": [
+          "/assets/photos/tosc4.jpg",
           "/assets/photos/tosc1.jpg",
           "/assets/photos/tosc2.jpg",
           "/assets/photos/tosc3.jpg",
-          "/assets/photos/tosc4.jpg",
           "/assets/photos/tosc5.jpg"
         ],
         "description": "Projeto de fit-out de um dos mais afamados restaurantes da linha de Cascais, através do aproveitamento da luz natural e da fluidez da transição sala-cozinha no dia a dia d'O Toscano."
@@ -151,9 +151,9 @@
       {
         "title": "Parede, 2023-2024",
         "images": [
+          "/assets/photos/ne3.jpg",
           "/assets/photos/ne1.jpg",
-          "/assets/photos/ne2.jpg",
-          "/assets/photos/ne3.jpg"
+          "/assets/photos/ne2.jpg"
         ],
         "description": "Obras de reabilitação de pátio exterior, piscina e ajardinamentos e pinturas, coberturas e impermeabilizações de moradia com vista deslumbrante no alto da Parede."
       },
@@ -232,10 +232,10 @@
       {
         "title": "Campo de Ourique, 2023",
         "images": [
+          "/assets/photos/sna4.jpg",
           "/assets/photos/sna1.jpg",
           "/assets/photos/sna2.jpg",
           "/assets/photos/sna3.jpg",
-          "/assets/photos/sna4.jpg",
           "/assets/photos/sna5.jpg",
           "/assets/photos/sna6.jpg"
         ],
@@ -301,6 +301,7 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
 
 
