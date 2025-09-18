@@ -110,11 +110,11 @@
       {
         "title": "Carcavelos, 2023",
         "images": [
+          "/assets/photos/san5.jpg",
           "/assets/photos/san1.jpg",
           "/assets/photos/san2.jpg",
           "/assets/photos/san3.jpg",
-          "/assets/photos/san4.jpg",
-          "/assets/photos/san5.jpg"
+          "/assets/photos/san4.jpg"
         ],
         "description": "Following the completion of public sewage connections, we revitalized two distinct areas within a villa in the heart of Carcavelos."
       },
@@ -140,10 +140,10 @@
       {
         "title": "Parede, 2023",
         "images": [
+          "/assets/photos/tosc4.jpg",
           "/assets/photos/tosc1.jpg",
           "/assets/photos/tosc2.jpg",
           "/assets/photos/tosc3.jpg",
-          "/assets/photos/tosc4.jpg",
           "/assets/photos/tosc5.jpg"
         ],
         "description": "Interior fit-out for one of Cascais’ most renowned restaurants, enhancing natural light and creating a seamless flow between dining room and kitchen in the daily rhythm of O Toscano."
@@ -151,9 +151,9 @@
       {
         "title": "Parede, 2023–2024",
         "images": [
+          "/assets/photos/ne3.jpg",
           "/assets/photos/ne1.jpg",
-          "/assets/photos/ne2.jpg",
-          "/assets/photos/ne3.jpg"
+          "/assets/photos/ne2.jpg"
         ],
         "description": "Comprehensive refurbishment of an exterior patio, swimming pool, landscaping, roofing, painting, and waterproofing works for a villa with breathtaking views over Parede."
       },
@@ -301,6 +301,7 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
 
 
