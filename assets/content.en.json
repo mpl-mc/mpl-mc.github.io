@@ -94,6 +94,20 @@
         ],
         "description": "Reconstruction of a 19th-century chalet, preserving its original character while transforming the interior into a modern and welcoming space — with the historic millstone that once stood here carefully integrated."
       },
+          {
+        "title": "Parede, 2024",
+        "images": [
+          "/assets/photos/par1.jpg",
+          "/assets/photos/par2.jpg",
+          "/assets/photos/par3.jpg",
+          "/assets/photos/par4.jpg",
+          "/assets/photos/par5.jpg",
+          "/assets/photos/par6.jpg",
+          "/assets/photos/par7.jpg",
+          "/assets/photos/par8.jpg"
+        ],
+        "description": "Complete renovation of a detached house in the center of Parede, involving major works in the basement and bathrooms, the use of carpentry to harmonize the interior spaces, as well as a full refurbishment of the outdoor area (fences, flooring, cladding, and waterproofing), and the conversion of an outbuilding to provide guests with a welcoming and comfortable space."
+      },
       {
         "title": "Manique, 2022",
         "images": [
@@ -301,6 +315,7 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
 
 
