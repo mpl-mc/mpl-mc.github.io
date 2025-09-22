@@ -94,6 +94,20 @@
         ],
         "description": "Reconstrução de chalet do séc. XIX, mantendo a traça original e revolucionando o seu interior - um espaço moderno e acolhedor, preservando a mó do moinho que aí existia."
       },
+       {
+        "title": "Parede, 2024",
+        "images": [
+          "/assets/photos/par1.jpg",
+          "/assets/photos/par2.jpg",
+          "/assets/photos/par3.jpg",
+          "/assets/photos/par4.jpg",
+          "/assets/photos/par5.jpg",
+          "/assets/photos/par6.jpg",
+          "/assets/photos/par7.jpg",
+          "/assets/photos/par8.jpg"
+        ],
+        "description": "Remodelação integral de moradia isolada no centro da Parede, através da execução de obras de fundo em cave, casas de banho, da utilização de carpintaria para harmonizar os espaços interiores, bem como remodelação integral da área exterior (vedações, pavimentos, revestimentos e impermeabilizações) e a alteração de anexo para oferecer um espaço acolhedor e confortável a convidados."
+      },
       {
         "title": "Manique, 2022",
         "images": [
@@ -301,6 +315,7 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
 
 
