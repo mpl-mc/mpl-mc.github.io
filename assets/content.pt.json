@@ -94,7 +94,7 @@
         ],
         "description": "Reconstrução de chalet do séc. XIX, mantendo a traça original e revolucionando o seu interior - um espaço moderno e acolhedor, preservando a mó do moinho que aí existia."
       },
-       {
+      {
         "title": "Parede, 2024",
         "images": [
           "/assets/photos/par1.jpg",
@@ -304,7 +304,8 @@
     "subject": "Assunto",
     "message": "Messagem",
     "send": "Enviar",
-    "complains": "Livro de reclamações"
+    "complains": "Livro de reclamações",
+    "privacyPolicy": "Política de Privacidade"
   },
   "placeholders": {
     "subject": "Escreva aqui o seu assunto...",
@@ -315,11 +316,3 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
-
-
-
-
-
-
-
-

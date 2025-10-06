@@ -34,7 +34,7 @@
   "portfolio": {
     "title": "PORTFOLIO",
     "content": [
-       {
+      {
         "title": "São Domingos de Rana, 2022",
         "images": [
           "/assets/photos/capa18.jpg",
@@ -94,7 +94,7 @@
         ],
         "description": "Reconstruction of a 19th-century chalet, preserving its original character while transforming the interior into a modern and welcoming space — with the historic millstone that once stood here carefully integrated."
       },
-          {
+      {
         "title": "Parede, 2024",
         "images": [
           "/assets/photos/par1.jpg",
@@ -304,7 +304,8 @@
     "subject": "Subject",
     "message": "Message",
     "send": "Send",
-    "complains": "Complaints Book"
+    "complains": "Complaints Book",
+    "privacyPolicy": "Privacy Policy"
   },
   "placeholders": {
     "subject": "Type your subject here...",
@@ -315,9 +316,3 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
-
-
-
-
-
-
