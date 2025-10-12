@@ -286,7 +286,7 @@
   },
   "contacts": {
     "title": "CONTACTS",
-    "email": "geral@mpl-mc.pt",
+    "email": ["mauro.cruz@mpl-mc.pt", "guilherme.martins@mpl-mc.pt"],
     "phone": "(+351) 210998121",
     "address": [
       "Avenida das Acácias - 53, Loja B",
