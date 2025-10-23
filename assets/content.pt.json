@@ -69,7 +69,7 @@
         "title": "São João do Estoril, 2025 (em execução)",
         "images": [
           "/assets/photos/ap01.jpg",
-          "/assets/photos/ap114.jpg",
+          "/assets/photos/ap114.jpeg",
           "/assets/photos/ap02.jpg",
           "/assets/photos/ap1.jpg",
           "/assets/photos/ap2.jpg",
@@ -84,8 +84,8 @@
           "/assets/photos/ap11.jpg",
           "/assets/photos/ap12.jpg",
           "/assets/photos/ap13.jpg",
-          "/assets/photos/ap113.jpg",
-          "/assets/photos/ap115.jpg",
+          "/assets/photos/ap113.jpeg",
+          "/assets/photos/ap115.jpeg",
           "/assets/photos/ap14.jpg",
           "/assets/photos/ap15.jpg",
           "/assets/photos/ap16.jpg",
@@ -324,4 +324,5 @@
     "complainBook": "https://www.livroreclamacoes.pt/empresa/mpl-mc-engenharia-lda"
   }
 }
+
 
